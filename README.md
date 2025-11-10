@@ -109,6 +109,3 @@ Feel free to open issues, suggest features, or submit pull requests.
 Special thanks to the teams behind **LangGraph**, **Google Gemini**, and **Tavily** for enabling intelligent and context-aware conversational AI.
 
 ---
-
-Would you like me to also generate a **sample project structure** (folders, files, `Dockerfile`, etc.) to go with this README so it’s ready for GitHub deployment?
-
