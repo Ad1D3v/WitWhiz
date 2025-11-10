@@ -93,8 +93,7 @@ Through **streaming responses**, WitWhiz ensures real-time feedback during conve
 
 * 🗣️ Voice-based interaction support
 * 🌐 Multi-language conversation support
-* 💾 Persistent chat history and analytics
-* ☁️ Cloud deployment templates (AWS/GCP/Azure)
+* 💾 Optimized chat history
 
 ---
 
